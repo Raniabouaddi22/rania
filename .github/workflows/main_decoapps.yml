@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'decoapps'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C12DE0B63D7749F9B2F0B632AC26B1D5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E092521332841F7A4D885D34A004A50 }}
